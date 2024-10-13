@@ -867,6 +867,7 @@ GameObject:
   - component: {fileID: 9185301827138479717}
   - component: {fileID: 4760947137295010490}
   - component: {fileID: 2362419839330187821}
+  - component: {fileID: 9185301827138479718}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -1321,6 +1322,45 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 4
+--- !u!114 &9185301827138479718
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5440152750548630155}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bfb91d9ace33c249b6bbcd7152c8901, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  xInput: 0
+  yInput: 0
+  isWalking: 0
+  isRunning: 0
+  isIdle: 0
+  isCarryiing: 0
+  toolEffect: 0
+  isUsingToolRight: 0
+  isUsingToolLeft: 0
+  isUsingToolUp: 0
+  isUsingToolDown: 0
+  isLiftingToolRight: 0
+  isLiftingToolLeft: 0
+  isLiftingToolUp: 0
+  isLiftingToolDown: 0
+  isPickingRight: 0
+  isPickingLeft: 0
+  isPickingUp: 0
+  isPickingDown: 0
+  isSwingingToolRight: 0
+  isSwingingToolLeft: 0
+  isSwingingToolUp: 0
+  isSwingingToolDown: 0
+  idleUp: 0
+  idleDown: 0
+  idleRight: 0
+  idleLeft: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
