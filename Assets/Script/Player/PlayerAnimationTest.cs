@@ -9,7 +9,7 @@ public class PlayerAnimationTest : MonoBehaviour
     public bool isWalking;
     public bool isRunning;
     public bool isIdle;
-    public bool isCarryiing;
+    public bool isCarrying;
     public ToolEffect toolEffect;
     public bool isUsingToolRight;
     public bool isUsingToolLeft;
@@ -34,7 +34,7 @@ public class PlayerAnimationTest : MonoBehaviour
 
     private void Update()
     {
-        EventHandler.CallMovementEvent(xInput, yInput, isWalking, isRunning, isIdle, isCarryiing,
+        EventHandler.CallMovementEvent(xInput, yInput, isWalking, isRunning, isIdle, isCarrying,
             toolEffect,
             isUsingToolRight, isUsingToolLeft, isUsingToolUp, isUsingToolDown,
             isLiftingToolRight, isLiftingToolLeft, isLiftingToolUp, isLiftingToolDown,
