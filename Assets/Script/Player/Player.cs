@@ -38,11 +38,17 @@ public class Player : SingletonMonoBehavior<Player>
 
     public bool PlayerInputIsDisabled { get => _playerInputIsDisabled; set => _playerInputIsDisabled = value; }
 
+    private PlayerInputActions playerInputActions; // Input Actions instance
+
+
     protected override void Awake()
     {
         base.Awake();
 
         rigidBody2D = GetComponent<Rigidbody2D>();
+
+        playerInputActions = new PlayerInputActions(); // Instantiate input actions
+        playerInputActions.Player.Enable(); // Enable the player input action map
     }
 
     private void Update()
