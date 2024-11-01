@@ -135,6 +135,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UIInventorySlot8
       objectReference: {fileID: 0}
+    - target: {fileID: 1757942883494030350, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
+      propertyPath: inventoryBar
+      value: 
+      objectReference: {fileID: 2099712182}
     - target: {fileID: 6927647003511197150, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -470,6 +474,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UIInventorySlot5
       objectReference: {fileID: 0}
+    - target: {fileID: 1757942883494030350, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
+      propertyPath: inventoryBar
+      value: 
+      objectReference: {fileID: 2099712182}
     - target: {fileID: 6927647003511197150, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -795,6 +803,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UIInventorySlot11
       objectReference: {fileID: 0}
+    - target: {fileID: 1757942883494030350, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
+      propertyPath: inventoryBar
+      value: 
+      objectReference: {fileID: 2099712182}
     - target: {fileID: 6927647003511197150, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -908,6 +920,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UIInventorySlot2
       objectReference: {fileID: 0}
+    - target: {fileID: 1757942883494030350, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
+      propertyPath: inventoryBar
+      value: 
+      objectReference: {fileID: 2099712182}
     - target: {fileID: 6927647003511197150, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1021,6 +1037,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UIInventorySlot10
       objectReference: {fileID: 0}
+    - target: {fileID: 1757942883494030350, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
+      propertyPath: inventoryBar
+      value: 
+      objectReference: {fileID: 2099712182}
     - target: {fileID: 6927647003511197150, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1134,6 +1154,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UIInventorySlot9
       objectReference: {fileID: 0}
+    - target: {fileID: 1757942883494030350, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
+      propertyPath: inventoryBar
+      value: 
+      objectReference: {fileID: 2099712182}
     - target: {fileID: 6927647003511197150, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1247,6 +1271,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UIInventorySlot6
       objectReference: {fileID: 0}
+    - target: {fileID: 1757942883494030350, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
+      propertyPath: inventoryBar
+      value: 
+      objectReference: {fileID: 2099712182}
     - target: {fileID: 6927647003511197150, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1360,6 +1388,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UIInventorySlot3
       objectReference: {fileID: 0}
+    - target: {fileID: 1757942883494030350, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
+      propertyPath: inventoryBar
+      value: 
+      objectReference: {fileID: 2099712182}
     - target: {fileID: 6927647003511197150, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1519,6 +1551,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UIInventorySlot7
       objectReference: {fileID: 0}
+    - target: {fileID: 1757942883494030350, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
+      propertyPath: inventoryBar
+      value: 
+      objectReference: {fileID: 2099712182}
     - target: {fileID: 6927647003511197150, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1632,6 +1668,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UIInventorySlot1
       objectReference: {fileID: 0}
+    - target: {fileID: 1757942883494030350, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
+      propertyPath: inventoryBar
+      value: 
+      objectReference: {fileID: 2099712182}
     - target: {fileID: 6927647003511197150, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1745,6 +1785,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UIInventorySlot4
       objectReference: {fileID: 0}
+    - target: {fileID: 1757942883494030350, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
+      propertyPath: inventoryBar
+      value: 
+      objectReference: {fileID: 2099712182}
     - target: {fileID: 6927647003511197150, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -2091,6 +2135,7 @@ MonoBehaviour:
   - {fileID: 657451283}
   - {fileID: 631660338}
   - {fileID: 587125111}
+  inventoryBarDraggedItem: {fileID: 4022920537744871370, guid: 18fb55e4ffa78f24c9ac1bf583e01544, type: 3}
 --- !u!114 &2099712183
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2321,6 +2366,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UIInventorySlot0
       objectReference: {fileID: 0}
+    - target: {fileID: 1757942883494030350, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
+      propertyPath: inventoryBar
+      value: 
+      objectReference: {fileID: 2099712182}
     - target: {fileID: 6927647003511197150, guid: d23000ba30c807e47a392a4ef8339801, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
